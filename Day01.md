@@ -266,7 +266,7 @@ https://www.quanxiaoha.com/idea/idea-tutorial.html
 
 ### 面向对象（综合案例）
 
-······（看困了）
+······
 
 
 
@@ -341,9 +341,5 @@ https://www.quanxiaoha.com/idea/idea-tutorial.html
 
 ![1729245681983](C:\Users\hw\AppData\Roaming\Typora\typora-user-images\1729245681983.png)
 
-### 学生管理系统
 
-双层循环，要跳出外面的循环 用标号 loop
-
-![1729251957796](C:\Users\hw\AppData\Roaming\Typora\typora-user-images\1729251957796.png)
 
